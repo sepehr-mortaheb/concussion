@@ -26,6 +26,3 @@
   - 12 participants in the acute phase (2 of them have 2 acquisitions)
   - 30 participants in the chronic phase
   - 19 healthy participants
- 
-- **Included with Questions**
-  - TCLC008 has two complete functional acquisitions. Which one?
