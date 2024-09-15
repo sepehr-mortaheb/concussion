@@ -20,11 +20,11 @@
   - TCLC030
   - TCLC035
   - TCLC037
-  - TCLC039
+  - TCLC039 (was not in the list at all!)
  
-- So, in general, we have **a total of 60 unique participants** for the analysis:
+- So, in general, we have **a total of 61 unique participants** for the analysis:
   - 12 participants in the acute phase (2 of them have 2 acquisitions)
-  - 29 participants in the chronic phase
+  - 30 participants in the chronic phase
   - 19 healthy participants
  
 - **Included with Questions**
