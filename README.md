@@ -14,9 +14,17 @@
   - TCLC021 does not have fMRI
   - TCLC025 does not have any MRI data
  
-- So, in general, we have **a total of 66 unique participants** for the analysis:
+- **More Excluded Data based on Clinical Scores**:
+  - TCLC028
+  - TCLC029
+  - TCLC030
+  - TCLC035
+  - TCLC037
+  - TCLC039
+ 
+- So, in general, we have **a total of 60 unique participants** for the analysis:
   - 12 participants in the acute phase (2 of them have 2 acquisitions)
-  - 35 participants in the chronic phase
+  - 29 participants in the chronic phase
   - 19 healthy participants
  
 - **Included with Questions**
