@@ -31,4 +31,4 @@
   - 33 participants in the chronic phase
   - 25 healthy participants
  
-- For the analysis, we do not consider the **Acute** group. 
+- For the analysis, we **DO NOT** consider the **Acute** group. 
